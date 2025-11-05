@@ -25,7 +25,7 @@ Incluye secciones de:
 - **React.js**
 - **Vite**
 - **Tailwind CSS**
-- **JavaScript (ES6+)**
+- **JavaScript**
 
 ---
 
