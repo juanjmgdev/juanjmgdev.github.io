@@ -11,10 +11,11 @@ Bienvenido a mi portfolio personal, donde muestro algunos de mis proyectos y tec
 Este portfolio ha sido desarrollado con **React** y **Tailwind CSS**, con un diseño **responsivo y modo oscuro**, optimizado para ofrecer una navegación fluida en cualquier dispositivo.
 
 Incluye secciones de:
--  **Inicio**
 -  **Sobre mí**
 -  **Tecnologías**
 -  **Proyectos**
+-  **Experiencia**
+-  **Formación**
 -  **Contacto**
 
 ---
